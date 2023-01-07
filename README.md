@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Supriya Diwate</h1>
 <h3 align="center">A Passionate Data Enthusiast from India</h3>
